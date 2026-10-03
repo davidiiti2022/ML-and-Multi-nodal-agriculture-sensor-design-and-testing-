@@ -129,7 +129,9 @@ The agricultural sensor provides multiple parameters related to soil and environ
                                    ┌─────────────────┐
                                    │ Machine         │
                                    │ Learning        │
-                                   └─────────────────┘# 🧪 Testing
+                                   └─────────────────┘
+---
+# 🧪 Testing
 
 The system can be tested at different stages.
 
