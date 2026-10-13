@@ -551,9 +551,7 @@ The script retrieves stored sensor readings and updates the Excel dataset.
 # ⭐ Acknowledgement
 
 This project was developed as an academic/research project focused on **agricultural sensor monitoring, IoT communication, data collection, and Machine Learning-based sensor validation**.
-David Kumar
-B.Tech — Electrical Engineering 
-Indian Institute of Technology Indore
+
 ---
 
 # 🔑 Keywords
